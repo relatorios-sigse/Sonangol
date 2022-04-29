@@ -3,8 +3,9 @@ SELECT
 Criação:  
 01-07-2020. Andrés Del Río. Mostra os mapeamentos de requisitos legais do menú de consulta REQ039 no SE Suite.
 Além disso, foram incluídos os atributos do requisito "Id Requisito", "Data de emisão", "Departamento" e "Palavra chave".
-Versão: 2.1.5.131 (versión actual - no tenemos versión cuando fue creado)
+
 Ambiente: https://sii.sonangol.co.ao/se
+Versão: 2.1.5.131 (versão atual - no temos a versão real quando foi criada)
 Painel de análise: SNLEP.DQSA.RL - Mapeamento de Requisitos Legais - DQSA
         
 Alterações: 

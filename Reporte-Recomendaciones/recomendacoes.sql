@@ -5,7 +5,7 @@ Criação:
 A query foi alterada para trazer alguns dados que não tinha a consulta padrão.
 
 Ambiente: https://sii.sonangol.co.ao/se
-Versão: 2.1.5.131 (versión actual - no tenemos versión cuando fue creado)
+Versão: 2.1.5.131 (versão atual - no temos a versão real quando foi criada)
 Painel de análise: RECv2 - Recomendações - Acções e Planos
         
 Alterações: 
